@@ -1,0 +1,6 @@
+[submodule "events/lambda-slack-chat-bot"]
+	path = events/lambda-slack-chat-bot
+	url = https://github.com/briaugenreich/lambda-slack-chat-bot
+[submodule "events/aws-certification-resources"]
+	path = events/aws-certification-resources
+	url = https://github.com/briaugenreich/aws-certification-resources.git
