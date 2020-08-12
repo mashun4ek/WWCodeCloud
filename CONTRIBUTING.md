@@ -29,7 +29,7 @@ If you have resources you would like to share from your event or resources you t
 
 
     ```markdown
-    | <a href="REPO_URL"><img alt="EVENT_TITLE." align="center" width="400" src="docs/images/IMAGE_NAME"></a> | **EVENT TITLE** <br/><br/> EVENT_DESCRIPTION <br/><br/> [Slides](SLIDE_LINK) <br/><br/> [Video Recording](VIDEO_LINK)<br/><br/> -SPEAKER_NAME, _SPEAKER_TITLE_ |
+    | <a href="REPO_URL"><img alt="EVENT_TITLE." align="center" width="400" src="docs/images/IMAGE_NAME"></a> | **EVENT_TITLE** <br/><br/> EVENT_DESCRIPTION <br/><br/> [Slides](SLIDE_LINK) <br/><br/> [Video Recording](VIDEO_LINK)<br/><br/> -SPEAKER_NAME, _SPEAKER_TITLE_ |
     ```
 
 
