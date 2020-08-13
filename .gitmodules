@@ -4,3 +4,6 @@
 [submodule "events/aws-certification-resources"]
 	path = events/aws-certification-resources
 	url = https://github.com/briaugenreich/aws-certification-resources.git
+[submodule "events/ecs_terraform_workshop"]
+	path = events/ecs_terraform_workshop
+	url = https://github.com/mashun4ek/ecs_terraform_workshop

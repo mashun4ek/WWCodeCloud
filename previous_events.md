@@ -1,0 +1,6 @@
+### Previous events and recordings: 
+
+| | |
+| ----------- | ----------- |
+| <a href="https://github.com/mashun4ek/ecs_terraform_workshop"><img alt="AWS+Terraform + Docker +ECS" align="center" width="400" src="docs/images/ecs_img_t.png"></a> | **AWS+Terraform + Docker +ECS** <br/><br/> In this workshop we will discuss how to provision infrastructure using Terraform and how AWS Elastic Container Service (ECS) enables deployments of application docker containers. Participants will walk through a hands-on example deploying a web application. <br/><br/>Bonus: We will see how GitHub Actions can enable automated delivery! <br/><br/> [Video Recording](https://www.youtube.com/watch?v=Ky7sph6fBtM&t=212s)<br/><br/> -Mariia Kerimova, _DevOps Engineer_ |
+|  | **AWS Certification Panel or FireSide Chat** <br/><br/> Are you thinking about or currently pursing an AWS certification? Join us for a fireside chat with experienced cloud certified engineers Mary Kate Comer and Tiffany Jachja. During the session attendees will learn from our speakers experiences and get a chance to ask the speakers their questions about AWS certification. <br/><br/> [Video Recording](https://www.youtube.com/watch?v=-KZjwdEML3k)<br/><br/> -Mary Kate Comer and Tiffany Jachja |
